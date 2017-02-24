@@ -124,21 +124,12 @@ meteor run android
 
 * [METEOR](https://www.meteor.com/developers) - Meteor is a full-stack JavaScript platform for developing modern web and mobile applications
 * [MongoDB](https://docs.mongodb.com/manual/) - MongoDB is an open-source, document database designed for ease of development and scaling.
-
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning.  
+ 
 
 ## Authors
 
 * **Cresta White** - *Contributors* 
 * **Alex Diaz** - *Contributors*
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
